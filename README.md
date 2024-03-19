@@ -2,10 +2,7 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-leshko-9a638a211/)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leshko.dev@gmail.com)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-leshko-9a638a211/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leshko.dev@gmail.com)
 
 
 - 💻 As a self-learning iOS developer, I am passionate about creating user-friendly mobile applications. With expertise in UIKit, SwiftUI, and CoreData and API integration. I have a strong foundation in building robust and visually appealing iOS apps. 
